@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CustomExceptionEx {
 
 	public static void main(String[] args) {
-        Account ob = new Account("Prateek Joshi",1001,2000);
+        Account ob = new Account("Aditya Srivastava",1011,2012);
 		
 		Scanner sc = new Scanner(System.in);
 		String r;
