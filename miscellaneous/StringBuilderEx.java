@@ -6,28 +6,28 @@ public class StringBuilderEx {
 		// TODO Auto-generated method stub
 		        
 		        //immutable concept of String
-		          String s = "Nancy";
+		          String s = "John";
 		          
 		          
-		          System.out.println(s+" gupta");
+		          System.out.println(s+" Thomas");
 		          
-		          s = s+ " Gupta";
-		          String s1 = s+" Gupta"; System.out.println(s); System.out.println(s1);
+		          s = s+ " Thomas";
+		          String s1 = s+" Thomas"; System.out.println(s); System.out.println(s1);
 		          
-		          String s2 = " Gupta";
+		          String s2 = " Thomas";
 		         
 		          
 		        //String imp conversions    
 		        
 		        //char to String        
-		        char ch = 'n';
+		        char ch = 'a';
 		        
 		        String chstr = Character.toString(ch);
 		        System.out.println("char ch="+ch+" to String:"+chstr);
 		        
 		        //String to char
 		        
-		        String yesno = "n";
+		        String yesno = "a";
 		        
 		         ch =  yesno.charAt(0);
 		         System.out.println("String "+yesno+" to char:"+ch);
